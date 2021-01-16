@@ -4,11 +4,11 @@ A simple offline 2d snake game.
 
 You should keep yourself alive, between other players. The winner will be the last remaining snake. Use arrow keys to change snake direction.
 
-**Note:** The current version does not have any menu for controlling the game (e.g. restarting the game), unfortunately. The only simple way to restart the game is to reload the browser.
+**Note:** The current version does not have any menu for controlling the game (e.g. restarting the game), nor any popups for winner determination, unfortunately. The only simple way to restart the game is to reload the browser. See "Contribution" section.
 
 ## Multiplayer Mode
 
-It is possible to add more than one player via hacking the code a little bit, but due to lack of a control menu in the game, it is impossible to choose the number of players in the game dynamically, without a code change.
+It is possible to add more than one player via hacking the code a little bit, but due to the lack of a control menu in the game, it is impossible to choose the number of players in the game dynamically, without a code change.
 
 ## Build
 
